@@ -12,12 +12,19 @@ class MagicDualType{
     T dark;
     U magic;
 };
-typedef<template>
+
+// template<typename T>
+// typedef MagicVectorType<vector<T, string>> MVT; 
+
+typedef int (*process)(void *);
+using NewProcess = int(*)(void*);
+
+template<typename T>
+using TrueDarkMagic = MagicDualType<vector<T>, string>;
 
 int main(){
     vector<MagicType<(1>2)>> magic; // not recommend code
-
-
+    TrueDarkMagic<bool> tdm;
 
 
 
