@@ -1,0 +1,18 @@
+2_1 8 0.00369014
+test_for_NRVO 6 0.00373487
+test_for_func_var_and_return 8 0.00485303
+test_for_lamda 6 0.00453104
+test_for_modern 6 0.00387181
+test_for_no_virtual 8 0.0046954
+1_1 6 0.00322582
+test_for_ptr 7 0.00495473
+test_for_ref 7 0.00429138
+test_for_storage 6 0.00430573
+test_for_storage_type 6 0.0048653
+test_for_virtual 7 0.00436318
+test_for_compile_and_run_time 3 0.00478325
+test_for_shallow_and_deep_copy 4 0.00274235
+2_2 2 0.29914
+2_4 1 0.505018
+2_3 2 0.00246621
+---

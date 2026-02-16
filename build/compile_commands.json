@@ -1,0 +1,116 @@
+[
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/cppLearning_main.dir/main.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/main.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/main.cpp",
+  "output": "CMakeFiles/cppLearning_main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/1_1.dir/test/1_1.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/1_1.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/1_1.cpp",
+  "output": "CMakeFiles/1_1.dir/test/1_1.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/2_1.dir/test/2_1.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/2_1.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/2_1.cpp",
+  "output": "CMakeFiles/2_1.dir/test/2_1.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/2_2.dir/test/2_2.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/2_2.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/2_2.cpp",
+  "output": "CMakeFiles/2_2.dir/test/2_2.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/2_3.dir/test/2_3.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/2_3.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/2_3.cpp",
+  "output": "CMakeFiles/2_3.dir/test/2_3.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/2_4.dir/test/2_4.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/2_4.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/2_4.cpp",
+  "output": "CMakeFiles/2_4.dir/test/2_4.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/2_5.dir/test/2_5.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/2_5.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/2_5.cpp",
+  "output": "CMakeFiles/2_5.dir/test/2_5.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_NRVO.dir/test/test_for_NRVO.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_NRVO.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_NRVO.cpp",
+  "output": "CMakeFiles/test_for_NRVO.dir/test/test_for_NRVO.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_compile_and_run_time.dir/test/test_for_compile_and_run_time.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_compile_and_run_time.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_compile_and_run_time.cpp",
+  "output": "CMakeFiles/test_for_compile_and_run_time.dir/test/test_for_compile_and_run_time.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_func_var_and_return.dir/test/test_for_func_var_and_return.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_func_var_and_return.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_func_var_and_return.cpp",
+  "output": "CMakeFiles/test_for_func_var_and_return.dir/test/test_for_func_var_and_return.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_lamda.dir/test/test_for_lamda.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_lamda.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_lamda.cpp",
+  "output": "CMakeFiles/test_for_lamda.dir/test/test_for_lamda.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_modern.dir/test/test_for_modern.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_modern.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_modern.cpp",
+  "output": "CMakeFiles/test_for_modern.dir/test/test_for_modern.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_no_virtual.dir/test/test_for_no_virtual.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_no_virtual.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_no_virtual.cpp",
+  "output": "CMakeFiles/test_for_no_virtual.dir/test/test_for_no_virtual.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_ptr.dir/test/test_for_ptr.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_ptr.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_ptr.cpp",
+  "output": "CMakeFiles/test_for_ptr.dir/test/test_for_ptr.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_ref.dir/test/test_for_ref.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_ref.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_ref.cpp",
+  "output": "CMakeFiles/test_for_ref.dir/test/test_for_ref.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_shallow_and_deep_copy.dir/test/test_for_shallow_and_deep_copy.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_shallow_and_deep_copy.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_shallow_and_deep_copy.cpp",
+  "output": "CMakeFiles/test_for_shallow_and_deep_copy.dir/test/test_for_shallow_and_deep_copy.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_storage.dir/test/test_for_storage.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_storage.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_storage.cpp",
+  "output": "CMakeFiles/test_for_storage.dir/test/test_for_storage.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_storage_type.dir/test/test_for_storage_type.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_storage_type.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_storage_type.cpp",
+  "output": "CMakeFiles/test_for_storage_type.dir/test/test_for_storage_type.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_virtual.dir/test/test_for_virtual.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_virtual.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_virtual.cpp",
+  "output": "CMakeFiles/test_for_virtual.dir/test/test_for_virtual.cpp.o"
+}
+]
