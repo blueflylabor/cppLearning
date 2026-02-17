@@ -6,7 +6,7 @@
 	CompilerName=""
 	CompilerVersion=""
 	OSName="macOS"
-	Hostname="JeffdeMacBook-Air.local"
+	Hostname="MacBookAir"
 	OSRelease="26.2"
 	OSVersion="25C56"
 	OSPlatform="arm64"
@@ -19,17 +19,17 @@
 	ProcessorCacheSize="131072"
 	NumberOfLogicalCPU="8"
 	NumberOfPhysicalCPU="8"
-	TotalVirtualMemory="5120"
+	TotalVirtualMemory="2048"
 	TotalPhysicalMemory="16384"
 	LogicalProcessorsPerPhysical="8"
 	ProcessorClockFrequency="0"
 	>
 	<Testing>
-		<StartDateTime>Feb 16 19:04 CST</StartDateTime>
-		<StartTestTime>1771239863</StartTestTime>
+		<StartDateTime>Feb 17 15:27 CST</StartDateTime>
+		<StartTestTime>1771313225</StartTestTime>
 		<TestList/>
-		<EndDateTime>Feb 16 19:04 CST</EndDateTime>
-		<EndTestTime>1771239863</EndTestTime>
+		<EndDateTime>Feb 17 15:27 CST</EndDateTime>
+		<EndTestTime>1771313225</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
