@@ -415,6 +415,40 @@ build bin/3_2: CXX_EXECUTABLE_LINKER__3_2_Debug CMakeFiles/3_2.dir/test/3_2.cpp.
   TARGET_PDB = 3_2.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 3_3
+
+
+#############################################
+# Order-only phony target for 3_3
+
+build cmake_object_order_depends_target_3_3: phony || .
+
+build CMakeFiles/3_3.dir/test/3_3.cpp.o: CXX_COMPILER__3_3_unscanned_Debug /Users/jeffwhynot/CLionProjects/cppLearning/test/3_3.cpp || cmake_object_order_depends_target_3_3
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/3_3.dir/test/3_3.cpp.o.d
+  FLAGS = -g -std=c++20 -arch arm64
+  INCLUDES = -I/Users/jeffwhynot/CLionProjects/cppLearning/include
+  OBJECT_DIR = CMakeFiles/3_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/3_3.dir/test
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3_3
+
+
+#############################################
+# Link the executable bin/3_3
+
+build bin/3_3: CXX_EXECUTABLE_LINKER__3_3_Debug CMakeFiles/3_3.dir/test/3_3.cpp.o
+  CONFIG = Debug
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/3_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = bin/3_3
+  TARGET_PDB = 3_3.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target test_for_NRVO
 
 
@@ -881,6 +915,8 @@ build 3_1: phony bin/3_1
 
 build 3_2: phony bin/3_2
 
+build 3_3: phony bin/3_3
+
 build cppLearning_main: phony bin/cppLearning_main
 
 build test_for_NRVO: phony bin/test_for_NRVO
@@ -915,7 +951,7 @@ build test_for_virtual: phony bin/test_for_virtual
 #############################################
 # Folder: /Users/jeffwhynot/CLionProjects/cppLearning/build
 
-build all: phony bin/cppLearning_main bin/1_1 bin/2_1 bin/2_2 bin/2_3 bin/2_4 bin/2_5 bin/2_6 bin/2_end bin/3_1 bin/3_2 bin/test_for_NRVO bin/test_for_compile_and_run_time bin/test_for_func_var_and_return bin/test_for_lamda bin/test_for_modern bin/test_for_no_virtual bin/test_for_ptr bin/test_for_ref bin/test_for_shallow_and_deep_copy bin/test_for_storage bin/test_for_storage_type bin/test_for_virtual
+build all: phony bin/cppLearning_main bin/1_1 bin/2_1 bin/2_2 bin/2_3 bin/2_4 bin/2_5 bin/2_6 bin/2_end bin/3_1 bin/3_2 bin/3_3 bin/test_for_NRVO bin/test_for_compile_and_run_time bin/test_for_func_var_and_return bin/test_for_lamda bin/test_for_modern bin/test_for_no_virtual bin/test_for_ptr bin/test_for_ref bin/test_for_shallow_and_deep_copy bin/test_for_storage bin/test_for_storage_type bin/test_for_virtual
 
 # =============================================================================
 # Built-in targets
