@@ -279,6 +279,142 @@ build bin/2_5: CXX_EXECUTABLE_LINKER__2_5_Debug CMakeFiles/2_5.dir/test/2_5.cpp.
   TARGET_PDB = 2_5.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 2_6
+
+
+#############################################
+# Order-only phony target for 2_6
+
+build cmake_object_order_depends_target_2_6: phony || .
+
+build CMakeFiles/2_6.dir/test/2_6.cpp.o: CXX_COMPILER__2_6_unscanned_Debug /Users/jeffwhynot/CLionProjects/cppLearning/test/2_6.cpp || cmake_object_order_depends_target_2_6
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/2_6.dir/test/2_6.cpp.o.d
+  FLAGS = -g -std=c++20 -arch arm64
+  INCLUDES = -I/Users/jeffwhynot/CLionProjects/cppLearning/include
+  OBJECT_DIR = CMakeFiles/2_6.dir
+  OBJECT_FILE_DIR = CMakeFiles/2_6.dir/test
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2_6
+
+
+#############################################
+# Link the executable bin/2_6
+
+build bin/2_6: CXX_EXECUTABLE_LINKER__2_6_Debug CMakeFiles/2_6.dir/test/2_6.cpp.o
+  CONFIG = Debug
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/2_6.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = bin/2_6
+  TARGET_PDB = 2_6.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2_end
+
+
+#############################################
+# Order-only phony target for 2_end
+
+build cmake_object_order_depends_target_2_end: phony || .
+
+build CMakeFiles/2_end.dir/test/2_end.cpp.o: CXX_COMPILER__2_end_unscanned_Debug /Users/jeffwhynot/CLionProjects/cppLearning/test/2_end.cpp || cmake_object_order_depends_target_2_end
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/2_end.dir/test/2_end.cpp.o.d
+  FLAGS = -g -std=c++20 -arch arm64
+  INCLUDES = -I/Users/jeffwhynot/CLionProjects/cppLearning/include
+  OBJECT_DIR = CMakeFiles/2_end.dir
+  OBJECT_FILE_DIR = CMakeFiles/2_end.dir/test
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2_end
+
+
+#############################################
+# Link the executable bin/2_end
+
+build bin/2_end: CXX_EXECUTABLE_LINKER__2_end_Debug CMakeFiles/2_end.dir/test/2_end.cpp.o
+  CONFIG = Debug
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/2_end.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = bin/2_end
+  TARGET_PDB = 2_end.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 3_1
+
+
+#############################################
+# Order-only phony target for 3_1
+
+build cmake_object_order_depends_target_3_1: phony || .
+
+build CMakeFiles/3_1.dir/test/3_1.cpp.o: CXX_COMPILER__3_1_unscanned_Debug /Users/jeffwhynot/CLionProjects/cppLearning/test/3_1.cpp || cmake_object_order_depends_target_3_1
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/3_1.dir/test/3_1.cpp.o.d
+  FLAGS = -g -std=c++20 -arch arm64
+  INCLUDES = -I/Users/jeffwhynot/CLionProjects/cppLearning/include
+  OBJECT_DIR = CMakeFiles/3_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/3_1.dir/test
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3_1
+
+
+#############################################
+# Link the executable bin/3_1
+
+build bin/3_1: CXX_EXECUTABLE_LINKER__3_1_Debug CMakeFiles/3_1.dir/test/3_1.cpp.o
+  CONFIG = Debug
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/3_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = bin/3_1
+  TARGET_PDB = 3_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 3_2
+
+
+#############################################
+# Order-only phony target for 3_2
+
+build cmake_object_order_depends_target_3_2: phony || .
+
+build CMakeFiles/3_2.dir/test/3_2.cpp.o: CXX_COMPILER__3_2_unscanned_Debug /Users/jeffwhynot/CLionProjects/cppLearning/test/3_2.cpp || cmake_object_order_depends_target_3_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/3_2.dir/test/3_2.cpp.o.d
+  FLAGS = -g -std=c++20 -arch arm64
+  INCLUDES = -I/Users/jeffwhynot/CLionProjects/cppLearning/include
+  OBJECT_DIR = CMakeFiles/3_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/3_2.dir/test
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3_2
+
+
+#############################################
+# Link the executable bin/3_2
+
+build bin/3_2: CXX_EXECUTABLE_LINKER__3_2_Debug CMakeFiles/3_2.dir/test/3_2.cpp.o
+  CONFIG = Debug
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/3_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = bin/3_2
+  TARGET_PDB = 3_2.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target test_for_NRVO
 
 
@@ -737,6 +873,14 @@ build 2_4: phony bin/2_4
 
 build 2_5: phony bin/2_5
 
+build 2_6: phony bin/2_6
+
+build 2_end: phony bin/2_end
+
+build 3_1: phony bin/3_1
+
+build 3_2: phony bin/3_2
+
 build cppLearning_main: phony bin/cppLearning_main
 
 build test_for_NRVO: phony bin/test_for_NRVO
@@ -771,7 +915,7 @@ build test_for_virtual: phony bin/test_for_virtual
 #############################################
 # Folder: /Users/jeffwhynot/CLionProjects/cppLearning/build
 
-build all: phony bin/cppLearning_main bin/1_1 bin/2_1 bin/2_2 bin/2_3 bin/2_4 bin/2_5 bin/test_for_NRVO bin/test_for_compile_and_run_time bin/test_for_func_var_and_return bin/test_for_lamda bin/test_for_modern bin/test_for_no_virtual bin/test_for_ptr bin/test_for_ref bin/test_for_shallow_and_deep_copy bin/test_for_storage bin/test_for_storage_type bin/test_for_virtual
+build all: phony bin/cppLearning_main bin/1_1 bin/2_1 bin/2_2 bin/2_3 bin/2_4 bin/2_5 bin/2_6 bin/2_end bin/3_1 bin/3_2 bin/test_for_NRVO bin/test_for_compile_and_run_time bin/test_for_func_var_and_return bin/test_for_lamda bin/test_for_modern bin/test_for_no_virtual bin/test_for_ptr bin/test_for_ref bin/test_for_shallow_and_deep_copy bin/test_for_storage bin/test_for_storage_type bin/test_for_virtual
 
 # =============================================================================
 # Built-in targets

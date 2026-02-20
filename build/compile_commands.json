@@ -43,6 +43,30 @@
 },
 {
   "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/2_6.dir/test/2_6.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/2_6.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/2_6.cpp",
+  "output": "CMakeFiles/2_6.dir/test/2_6.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/2_end.dir/test/2_end.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/2_end.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/2_end.cpp",
+  "output": "CMakeFiles/2_end.dir/test/2_end.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/3_1.dir/test/3_1.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/3_1.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/3_1.cpp",
+  "output": "CMakeFiles/3_1.dir/test/3_1.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/3_2.dir/test/3_2.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/3_2.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/3_2.cpp",
+  "output": "CMakeFiles/3_2.dir/test/3_2.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
   "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_NRVO.dir/test/test_for_NRVO.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_NRVO.cpp",
   "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_NRVO.cpp",
   "output": "CMakeFiles/test_for_NRVO.dir/test/test_for_NRVO.cpp.o"
