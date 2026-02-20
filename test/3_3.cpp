@@ -56,6 +56,19 @@ A return_rval(bool test){
         return b;
 }
 
+void ref(int& v){
+    std::cout << "left : " << std::endl;
+}
+
+void ref(int&& v){
+    std::cout << "right : " << std::endl;
+}
+
+template<typename T>
+void pass(T&& v){
+    std::cout << "regular deliver para : " << std::endl;
+    ref(v);
+}
 
 int main(){
     const char (&left)[6] = "01234";
@@ -65,6 +78,8 @@ int main(){
     static_assert(std::is_same<decltype("01234"), const char(&)[6]>::value, "");
 
     std::vector<int> v = foo();
+
+
 
     std::string lv1 = "string";
     std::string&& rv1 = std::move(lv1);
@@ -88,6 +103,14 @@ int main(){
     std::cout << "str : " << str << std::endl;
     vec.push_back(std::move(str));
     std::cout << "str : " << str << std::endl;
+
+    std::cout << "deliver rval : " << std::endl;
+    pass(1);
+    std::cout << "deliver lval : " << std::endl;
+    int l = 1;
+    pass(l);
+
+
 
     std::cout << "OK" << std::endl;
     return 0;
