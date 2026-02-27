@@ -17,6 +17,7 @@
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_MAT_IMG_thread.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_NRVO.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_RAII_and_PTR.dir
+/Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_compare_mat_caculate.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_compile_and_run_time.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_differ_val.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_func_var_and_return.dir

@@ -115,6 +115,12 @@
 },
 {
   "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_compare_mat_caculate.dir/test/test_for_compare_mat_caculate.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_compare_mat_caculate.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_compare_mat_caculate.cpp",
+  "output": "CMakeFiles/test_for_compare_mat_caculate.dir/test/test_for_compare_mat_caculate.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
   "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_compile_and_run_time.dir/test/test_for_compile_and_run_time.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_compile_and_run_time.cpp",
   "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_compile_and_run_time.cpp",
   "output": "CMakeFiles/test_for_compile_and_run_time.dir/test/test_for_compile_and_run_time.cpp.o"

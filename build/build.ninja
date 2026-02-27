@@ -687,6 +687,40 @@ build bin/test_for_RAII_and_PTR: CXX_EXECUTABLE_LINKER__test_for_RAII_and_PTR_De
   TARGET_PDB = test_for_RAII_and_PTR.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target test_for_compare_mat_caculate
+
+
+#############################################
+# Order-only phony target for test_for_compare_mat_caculate
+
+build cmake_object_order_depends_target_test_for_compare_mat_caculate: phony || .
+
+build CMakeFiles/test_for_compare_mat_caculate.dir/test/test_for_compare_mat_caculate.cpp.o: CXX_COMPILER__test_for_compare_mat_caculate_unscanned_Debug /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_compare_mat_caculate.cpp || cmake_object_order_depends_target_test_for_compare_mat_caculate
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/test_for_compare_mat_caculate.dir/test/test_for_compare_mat_caculate.cpp.o.d
+  FLAGS = -g -std=c++20 -arch arm64
+  INCLUDES = -I/Users/jeffwhynot/CLionProjects/cppLearning/include
+  OBJECT_DIR = CMakeFiles/test_for_compare_mat_caculate.dir
+  OBJECT_FILE_DIR = CMakeFiles/test_for_compare_mat_caculate.dir/test
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target test_for_compare_mat_caculate
+
+
+#############################################
+# Link the executable bin/test_for_compare_mat_caculate
+
+build bin/test_for_compare_mat_caculate: CXX_EXECUTABLE_LINKER__test_for_compare_mat_caculate_Debug CMakeFiles/test_for_compare_mat_caculate.dir/test/test_for_compare_mat_caculate.cpp.o
+  CONFIG = Debug
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/test_for_compare_mat_caculate.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = bin/test_for_compare_mat_caculate
+  TARGET_PDB = test_for_compare_mat_caculate.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target test_for_compile_and_run_time
 
 
@@ -1171,6 +1205,8 @@ build test_for_NRVO: phony bin/test_for_NRVO
 
 build test_for_RAII_and_PTR: phony bin/test_for_RAII_and_PTR
 
+build test_for_compare_mat_caculate: phony bin/test_for_compare_mat_caculate
+
 build test_for_compile_and_run_time: phony bin/test_for_compile_and_run_time
 
 build test_for_differ_val: phony bin/test_for_differ_val
@@ -1203,7 +1239,7 @@ build test_for_virtual: phony bin/test_for_virtual
 #############################################
 # Folder: /Users/jeffwhynot/CLionProjects/cppLearning/build
 
-build all: phony bin/cppLearning_main bin/1_1 bin/2_1 bin/2_2 bin/2_3 bin/2_4 bin/2_5 bin/2_6 bin/2_end bin/3_1 bin/3_2 bin/3_3 bin/5_2 bin/5_3 bin/5_4 bin/test_for_MAT_IMG bin/test_for_MAT_IMG_thread bin/test_for_NRVO bin/test_for_RAII_and_PTR bin/test_for_compile_and_run_time bin/test_for_differ_val bin/test_for_func_var_and_return bin/test_for_lamda bin/test_for_modern bin/test_for_no_virtual bin/test_for_ptr bin/test_for_ref bin/test_for_shallow_and_deep_copy bin/test_for_storage bin/test_for_storage_type bin/test_for_virtual
+build all: phony bin/cppLearning_main bin/1_1 bin/2_1 bin/2_2 bin/2_3 bin/2_4 bin/2_5 bin/2_6 bin/2_end bin/3_1 bin/3_2 bin/3_3 bin/5_2 bin/5_3 bin/5_4 bin/test_for_MAT_IMG bin/test_for_MAT_IMG_thread bin/test_for_NRVO bin/test_for_RAII_and_PTR bin/test_for_compare_mat_caculate bin/test_for_compile_and_run_time bin/test_for_differ_val bin/test_for_func_var_and_return bin/test_for_lamda bin/test_for_modern bin/test_for_no_virtual bin/test_for_ptr bin/test_for_ref bin/test_for_shallow_and_deep_copy bin/test_for_storage bin/test_for_storage_type bin/test_for_virtual
 
 # =============================================================================
 # Built-in targets
