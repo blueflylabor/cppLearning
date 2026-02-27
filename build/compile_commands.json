@@ -73,15 +73,57 @@
 },
 {
   "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/5_2.dir/test/5_2.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/5_2.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/5_2.cpp",
+  "output": "CMakeFiles/5_2.dir/test/5_2.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/5_3.dir/test/5_3.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/5_3.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/5_3.cpp",
+  "output": "CMakeFiles/5_3.dir/test/5_3.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/5_4.dir/test/5_4.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/5_4.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/5_4.cpp",
+  "output": "CMakeFiles/5_4.dir/test/5_4.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_MAT_IMG.dir/test/test_for_MAT_IMG.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_MAT_IMG.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_MAT_IMG.cpp",
+  "output": "CMakeFiles/test_for_MAT_IMG.dir/test/test_for_MAT_IMG.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_MAT_IMG_thread.dir/test/test_for_MAT_IMG_thread.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_MAT_IMG_thread.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_MAT_IMG_thread.cpp",
+  "output": "CMakeFiles/test_for_MAT_IMG_thread.dir/test/test_for_MAT_IMG_thread.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
   "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_NRVO.dir/test/test_for_NRVO.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_NRVO.cpp",
   "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_NRVO.cpp",
   "output": "CMakeFiles/test_for_NRVO.dir/test/test_for_NRVO.cpp.o"
 },
 {
   "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_RAII_and_PTR.dir/test/test_for_RAII_and_PTR.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_RAII_and_PTR.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_RAII_and_PTR.cpp",
+  "output": "CMakeFiles/test_for_RAII_and_PTR.dir/test/test_for_RAII_and_PTR.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
   "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_compile_and_run_time.dir/test/test_for_compile_and_run_time.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_compile_and_run_time.cpp",
   "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_compile_and_run_time.cpp",
   "output": "CMakeFiles/test_for_compile_and_run_time.dir/test/test_for_compile_and_run_time.cpp.o"
+},
+{
+  "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",
+  "command": "/usr/bin/clang++ -I/Users/jeffwhynot/CLionProjects/cppLearning/include -g -std=c++20 -arch arm64 -o CMakeFiles/test_for_differ_val.dir/test/test_for_differ_val.cpp.o -c /Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_differ_val.cpp",
+  "file": "/Users/jeffwhynot/CLionProjects/cppLearning/test/test_for_differ_val.cpp",
+  "output": "CMakeFiles/test_for_differ_val.dir/test/test_for_differ_val.cpp.o"
 },
 {
   "directory": "/Users/jeffwhynot/CLionProjects/cppLearning/build",

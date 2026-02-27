@@ -10,8 +10,15 @@
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/3_1.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/3_2.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/3_3.dir
+/Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/5_2.dir
+/Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/5_3.dir
+/Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/5_4.dir
+/Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_MAT_IMG.dir
+/Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_MAT_IMG_thread.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_NRVO.dir
+/Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_RAII_and_PTR.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_compile_and_run_time.dir
+/Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_differ_val.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_func_var_and_return.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_lamda.dir
 /Users/jeffwhynot/CLionProjects/cppLearning/build/CMakeFiles/test_for_modern.dir
